@@ -1,0 +1,5 @@
+{
+    "name": "DemoApp DevContainer",
+    "dockerComposeFile": "docker-compose.yml",
+    "service": "nginx",
+}
